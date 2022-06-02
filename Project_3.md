@@ -3,20 +3,30 @@
 # Create Book management software 
 
 User Class :(All should not be empty)
+
  id , username , password
 
 Books Class :(All should not be empty)
+
  ID , name , genre
 
 Loan Class :(All should not be empty)
+
  ID , userId , bookID
+ 
  
 
 Use service layer for the business logic
+
 Use project lombok
+
+
 Use DB
+
 Use Exception advice layer
+
 Add logging
+
 
 
 ## Endpoints :
