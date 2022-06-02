@@ -42,6 +42,7 @@ Add logging
 - Create endpoint that returns the lended books (return bad request if bookID is invalid)
 
 
-![](https://paper-attachments.dropbox.com/s_B4DBD70900D930425DD344E47C2172AB6A80CF893E9FE0189135990D360DC3E9_1654171123266_image.png)
+<img width="636" alt="image" src="https://user-images.githubusercontent.com/58336325/171650118-72e0e578-84ab-4146-9c46-3c838695fd71.png">
+
 
 
